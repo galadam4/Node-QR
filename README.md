@@ -1,2 +1,2 @@
-practicing node using npm, 
+practicing node using npm libraries, 
 turns user input to a QR image
